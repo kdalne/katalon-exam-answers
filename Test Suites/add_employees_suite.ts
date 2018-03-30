@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>add_employees_suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-03-30T13:21:22</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>508a623c-75c3-4f4d-883d-facb7eb2526e</testSuiteGuid>
+   <testCaseLink>
+      <guid>a70c1f6b-01f8-47cf-bbae-a7fbc6763d92</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PIM/CreateEmployee</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1a6eaa9e-7408-454a-8449-ccbaa03fbd58</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/orange_test</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>1a6eaa9e-7408-454a-8449-ccbaa03fbd58</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>employeeFirstName</value>
+         <variableId>af1a183e-61eb-4df5-890b-a623c298e0c8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1a6eaa9e-7408-454a-8449-ccbaa03fbd58</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>employeeLastName</value>
+         <variableId>4dd40ef9-2751-4404-9648-44d2caa00a9e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

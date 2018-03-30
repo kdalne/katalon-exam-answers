@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7638661d-f270-43e7-951a-a58a9e1fce39</testCaseGuid>
+   <variable>
+      <defaultValue>'pizza employer_1_1_1'</defaultValue>
+      <description></description>
+      <id>36dc5c47-2fdc-466b-84c3-fda588db9cca</id>
+      <masked>false</masked>
+      <name>employeeName</name>
+   </variable>
+</TestCaseEntity>
